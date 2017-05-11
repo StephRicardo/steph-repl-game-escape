@@ -22,3 +22,5 @@ ruby steph-repl-game-escape.rb
 ```
 
 ## Have fun!
+
+I played Stephanie's game and it was very well developed! - "Oscar Flores"
